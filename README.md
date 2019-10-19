@@ -10,6 +10,35 @@
 
 idea: use team folder for publishing instead
 
+## History
+
+Jim met Eric at the NYU workshop (@@).
+ITP camp
+Eric attended presentation on social ledger
+
+Eric is known as the blockchain artist.
+"How do we think about the future of digital property, and tie it to the process of cultural production" 
+
+
+## Primary goal
+
+cultural production...
+
+to enable the first re-sale of an art object and to return to the creator 15% of the profit.
+
+People with art can't easily get royalties from re-sale of their objects.
+
+https://discordapp.com/channels/257555930173014017/597843118536130569 
+https://itp.nyu.edu/camp2019/ 
+
+July 2019
+#blockchain-art discord channel...
+
+## Events
+
+Weekly meetings 10am PT mondays
+[rchain community calendar](https://calendar.google.com/calendar/embed?src=2cj152c9nidh6glpr1d5g4eq28@group.calendar.google.com&pli=1)
+
 ## Non-fungible tokens
 
 a la [ERC-721](http://erc721.org/)
