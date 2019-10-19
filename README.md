@@ -20,10 +20,11 @@ discord channel but more recently...
    - logs - experiment to capture every keybase message Gary has access to (possible privacy issue...)
    - testing
 
-## Events
+## Weekly meetings on Mondays
 
-Weekly meetings 10am PT mondays
-[rchain community calendar](https://calendar.google.com/calendar/embed?src=2cj152c9nidh6glpr1d5g4eq28@group.calendar.google.com&pli=1)
+10am PT mondays; see [rchain community calendar](https://calendar.google.com/calendar/embed?src=2cj152c9nidh6glpr1d5g4eq28@group.calendar.google.com&pli=1) for details
+
+[Log: Blockchain Art](https://docs.google.com/document/d/1wMrteneWWJjrwG2-kuZynDIpoRmc8OKASi_pX_r5ymE/edit)
 
 ## Current work: Non-fungible tokens
 
