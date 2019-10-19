@@ -24,6 +24,11 @@ Eric is known as the blockchain artist.
 
 cultural production...
 
+[Distributed Object Framework v.1.2](http://www.ericbarrydrasin.com/portfolio/1274/)
+Aug 15
+https://medium.com/@eric.drasin/the-distributed-art-object-framework-version-1-2-d851891440fe
+https://docs.google.com/document/d/1u53bf-NK8rcd6HV8so-L7nr0aYxCTV4cYm0PpLUh1Nk/edit#heading=h.zi43n9x7l33j
+
 to enable the first re-sale of an art object and to return to the creator 15% of the profit.
 
 People with art can't easily get royalties from re-sale of their objects.
